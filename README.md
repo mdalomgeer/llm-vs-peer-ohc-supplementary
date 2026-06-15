@@ -17,8 +17,8 @@ The full set of patient questions and the complete model outputs are not redistr
 
 ## Citation
 
-[Add the AMIA proceedings citation once available.]
+Hussein MA, Doshi R, He L, Reynolds TL. Comparing Human and Large Language Model Responses to Patients’ Online Questions: Towards Multi-dimensional Patient-centered Support. In: AMIA Annual Symposium Proceedings. Dallas, TX, USA; 2026. (Accepted)
 
 ## Contact
 
-Md Alomgeer Hussein. [email]
+Md Alomgeer Hussein. [mdalomh1@umbc.edu]
