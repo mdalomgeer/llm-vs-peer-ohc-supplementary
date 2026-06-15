@@ -65,5 +65,4 @@ This example shows how prompt wording shapes the content, the differential empha
 ## Reproduction details
 
 - Model: [GPT 4o]
-- Date queried: [date]
 - Settings: default, single standalone interaction, no system prompt, no follow-up
