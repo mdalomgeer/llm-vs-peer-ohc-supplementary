@@ -12,7 +12,7 @@ I recently had thyroid levels tested because of numerous hypothyroid symptoms. T
 
 ### Model response to Variant A (verbatim, used in analysis)
 
-Hi Lynn,
+Hi,
 Your test results and symptoms suggest a complex situation that needs careful evaluation. Normally, when the thyroid hormone levels (Free T4 and Free T3) are low, the pituitary gland releases more Thyroid Stimulating Hormone (TSH) to stimulate the thyroid to produce more hormones. In primary hypothyroidism, you would typically see a high TSH level along with low Free T4.
 
 However, your TSH level is normal, and your Free T4 is slightly below the normal range. This could suggest central (or secondary) hypothyroidism, where the problem lies not with the thyroid gland itself but with the pituitary gland, which may not be producing enough TSH. In central hypothyroidism, you can have low or normal TSH levels despite low thyroid hormone levels.
@@ -64,6 +64,6 @@ This example shows how prompt wording shapes the content, the differential empha
 
 ## Reproduction details
 
-- Model and version: [name and version string of the model used here]
+- Model: [GPT 4o]
 - Date queried: [date]
 - Settings: default, single standalone interaction, no system prompt, no follow-up
