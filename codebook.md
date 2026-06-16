@@ -40,4 +40,4 @@ The Variant B response is a general interpretation with no poster-specific tailo
 
 ## Reliability
 
-Two coders applied the scheme. Using the codebook, two coders independently coded a subset of 60 OHC user responses (approximately 10% of the sample) across four dimensions. Discrepancies were resolved through iterative discussion with the research team. Once consensus was reached, the two coders recoded the initial subset and then split the remaining 459 human responses and 122 GPT-3.5 Turbo responses (each coding 291 responses). Final inter-rater agreement was greater than 85% across codes.
+Using the codebook, two coders independently coded a subset of 60 OHC user responses (approximately 10% of the sample) across four dimensions. Discrepancies were resolved through iterative discussion with the research team. Once consensus was reached, the two coders recoded the initial subset and then split the remaining 459 human responses and 122 GPT-3.5 Turbo responses (each coding 291 responses). Final inter-rater agreement was greater than 85% across codes.
