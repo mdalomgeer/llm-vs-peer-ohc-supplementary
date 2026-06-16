@@ -1,6 +1,6 @@
 # Coding Framework
 
-This codebook lists the categories two coders used to score LLM and peer responses.
+This codebook lists the categories two coders used to score LLM and peer responses. The same scheme was applied to LLM and peer responses on the same inputs.
 
 ## Transparency (low / mid / high)
 
@@ -30,6 +30,14 @@ A reply can show more than one type.
 - Reassurance. Easing worry by noting the situation is likely manageable or within normal limits.
 - Sympathy. Expressing care or sorrow for what the poster is going through.
 
+## Worked example
+
+The two responses in the prompt-variation example file show how the scale anchors apply.
+
+The Variant A response opens by acknowledging the poster's situation and symptoms, then tailors its next steps to what she reported. It scores high on personalization and mid to high on the emotional support scale. It states a likely explanation without dwelling on uncertainty, so it scores mid on transparency.
+
+The Variant B response is a general interpretation with no poster-specific tailoring, since the prompt carried no symptoms. It scores low on personalization. It lays out what the labs can and cannot show and frames the result as borderline, so it scores high on transparency. It offers little acknowledgment of feeling, so it scores low on the emotional support scale.
+
 ## Reliability
 
-Two coders applied the scheme. Final inter-rater agreement was greater than 85% across codes.
+Two coders applied the scheme. [State whether both coders scored every response or a sample, and the total number of responses scored.] Final inter-rater agreement was greater than 85% across codes.
