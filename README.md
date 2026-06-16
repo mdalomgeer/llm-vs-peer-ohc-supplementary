@@ -1,6 +1,6 @@
 # Supplementary Materials
 
-Supplementary materials for the AMIA paper "Comparing Human and Large Language Model Responses to Patients' Online Questions: Towards Multi-dimensional Patient-centered Support" (Application #14169).
+Supplementary materials for the AMIA paper "Comparing Human and Large Language Model Responses to Patients' Online Questions: Towards Multi-dimensional Patient-centered Support".
 
 ## Contents
 
